@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "employee": "Ahmed Ali",
+    "type": "annual",
+    "days": 3,
+    "status": "pending",
+    "reason": "Family trip"
+  },
+  {
+    "id": 2,
+    "employee": "Sara Nasser",
+    "type": "sick",
+    "days": 1,
+    "status": "approved",
+    "reason": "Medical appointment"
+  }
+]
